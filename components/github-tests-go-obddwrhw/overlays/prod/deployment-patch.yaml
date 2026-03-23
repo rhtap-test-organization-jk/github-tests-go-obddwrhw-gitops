@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.9
+      - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/github-tests-go-obddwrhw:github-3c7b801e565a08f03130ec2df8b9139a811b6b2a
         name: container-image  
